@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ActionsReleaseCreatorApplication {
 
 
+
     public static void main(String[] args) {
         SpringApplication.run(ActionsReleaseCreatorApplication.class, args);
     }
