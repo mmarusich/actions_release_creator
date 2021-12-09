@@ -10,6 +10,8 @@ categories:
       - 'fix'
       - 'bugfix'
       - 'bug'
+  - title: '📝 Documentation updates'
+    label: 'doc'
   - title: '🧰 Maintenance'
     label: 'chore'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
